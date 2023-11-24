@@ -9,8 +9,6 @@ VALUES(first_name = "yj",
 	  salary=555);
 ```
 
-- Before checking the answer, think about what is the wrong with the above query
-
 ERROR: There is a column named "first_name" in table "teachers", but it cannot be referenced from this part of the query.column "first_name" does not exist
 
 ERROR: date/time field value out of range: "23-11-24"
