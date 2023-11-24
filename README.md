@@ -4,7 +4,7 @@ Records about Learning ANSI standard SQL like MySQL, PostgreSQL
 
   - query resource: https://github.com/anthonydb/practical-sql-2/blob/main/resources.md
 
-- Main Techknowlodge: PostgreSQL, PGAdmin
+- Main Techknowledge: PostgreSQL, PGAdmin
 
 ---
 
