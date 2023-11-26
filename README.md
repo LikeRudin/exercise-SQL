@@ -11,3 +11,14 @@ Records about Learning ANSI standard SQL like MySQL, PostgreSQL
 # Errors
 
 This Directory is for note-taking about human-errors in SQL Query
+
+- Before checking the answer, think about what is the wrong with the above query
+- logs.md has just explanations without sql query.
+
+# Exercise
+
+My Answer for Exercise(Try it yourself) on Practical SQL
+
+# Example
+
+Standard shape for each queries
